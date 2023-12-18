@@ -1,4 +1,4 @@
-# YoloV8-WebCam
+# YOLOv8-WebCam
 ### Ultralytics kütüphanesi aracılığıyla YOLOv8 modelini kullanarak nesne tanıma işlemi gerçekleştirdik.
 
 ![Ss](https://github.com/Suleymanyldrm/YoloV8-WebCam/blob/master/Images/kayit.gif)
