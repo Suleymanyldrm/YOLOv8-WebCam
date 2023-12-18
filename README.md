@@ -7,9 +7,11 @@ RoboFlow'da hazırladığımız veri setini, Google Colab üzerinden YOLOv8 mode
 
 Bu projede YOLOv8'in hazır modeli yerine kendi eğittiğimiz, ayakkabı ve şişe nesnesinden oluşan özel modelimizi kullandık.
 
-Projemizi çalıştırdığımız zaman kamera üzerinden nesne ayrımı yapıp,  şise ve insan yüzünü bulanıklaştırıyor.
-
 ![Kayıt](https://github.com/Suleymanyldrm/YoloV8-WebCam/blob/master/Images/webcam_ss.png)
+
+### Projemizi çalıştırdığımız zaman kamera üzerinden nesne ayrımı yapıp,  şise ve insan yüzünü bulanıklaştırıyor.
+![Test](https://raw.githubusercontent.com/Suleymanyldrm/YOLOv8-WebCam/master/Images/s3.webp)
+![Test](https://raw.githubusercontent.com/Suleymanyldrm/YOLOv8-WebCam/master/Images/su1.webp)
 
 ## Kaynaklar
 
