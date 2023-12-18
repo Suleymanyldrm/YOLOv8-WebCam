@@ -1,4 +1,6 @@
 # YoloV8-WebCam
-#### Google Colab üzerinden eğittiğimiz modeli kullanarak nesne tanıma işlemini gerçekleştiriyoruz.
+### Google Colab üzerinden eğittiğimiz veri setini kullanarak nesne tanıma işlemini gerçekleştiriyoruz.
 
-![alt text](https://github.com/Suleymanyldrm/YoloV8-WebCam/blob/master/Images/webcam_ss.png)
+![Ss](https://github.com/Suleymanyldrm/YoloV8-WebCam/blob/master/Images/kayit.gif)
+![Kayıt](https://github.com/Suleymanyldrm/YoloV8-WebCam/blob/master/Images/webcam_ss.png)
+
