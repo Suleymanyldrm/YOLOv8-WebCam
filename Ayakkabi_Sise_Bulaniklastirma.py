@@ -12,7 +12,7 @@ new_frame_time = 0
 detector = FaceDetector(minDetectionCon=0.75)
 
 classNames = ["Shoes", "Sise"]
-model = YOLO('shoes_bottle.pt')
+model = YOLO('shoesbottle.pt')
 
 cap = cv2.VideoCapture(0)
 
