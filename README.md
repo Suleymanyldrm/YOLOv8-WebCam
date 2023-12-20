@@ -1,5 +1,5 @@
 # YOLOv8-WebCam
-### Ultralytics kütüphanesinin YOLOv8 modelini kullanarak kamera üzerinden nesne tanıma işlemi gerçekleştirdik.
+### Ultralytics kütüphanesinin YOLOv8 modelini kullanarak kamera üzerinden nesne tanıma
 
 RoboFlow'da hazırladığımız veri setini, Google Colab üzerinden YOLOv8 modelini kullanarak eğittik ve kendi ağırlık dosyamızı(Model) oluşturduk. 
 
@@ -27,10 +27,8 @@ Projemizi çalıştırdığımız zaman kamera üzerinden nesne ayrımı yapıp,
 * facedetector
 
 ## Kaynaklar
-
 * https://app.roboflow.com/
 
 * https://colab.google/
 
 * https://roboflow.com/models
-
