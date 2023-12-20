@@ -7,6 +7,8 @@
 
   Projemizi çalıştırdığımız zaman kamera üzerinden nesne ayrımı yapıp,  şise ve insan yüzünü bulanıklaştırıyor.
 
+## Çalışma görselleri
+
 ![Ss](https://github.com/Suleymanyldrm/YoloV8-WebCam/blob/master/Images/kayit.gif)
 ![Kayıt](https://github.com/Suleymanyldrm/YoloV8-WebCam/blob/master/Images/webcam_ss.png)
 
@@ -14,6 +16,16 @@
 ![Test](https://raw.githubusercontent.com/Suleymanyldrm/YOLOv8-WebCam/master/Images/s3.webp)
 ![Test](https://raw.githubusercontent.com/Suleymanyldrm/YOLOv8-WebCam/master/Images/su1.webp)
 -->
+
+## Kütüphaneler
+* Ultralytics
+* Openvc-python
+* time
+* cvzone
+* numpy
+* torch
+* facedetector
+
 ## Kaynaklar
 
 https://app.roboflow.com/
